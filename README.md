@@ -7,4 +7,6 @@ NUMB
 
 | Member | Tasks |
 |---|---|
-| Phyo Mg Mg | Task A - Deposit tests; Task E - Shared fixture |
+| Phyo Maungg Maungg  | Task A - Deposit tests; Task E - Shared fixture |
+| Lynn Myat           | Task B - test_withdraw.py |
+| Paing Hein Khant    | Task C - test_teardown.py |
